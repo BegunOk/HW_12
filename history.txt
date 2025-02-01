@@ -1,0 +1,137 @@
+    1  git conflig --global user.name "Anton Goloukhov"
+    2  cd
+    3  git config --global user.name "Anton Goloukhov"
+    4  git config --global user.email "tidebel@gmail.com"
+    5  git config --global -l
+    6  global-l
+    7  global -l
+    8  git config --global -l
+    9  git int
+   10  get init
+   11  get init
+   12  ls
+   13  cd git-branch
+   14  git checkout -b
+   15  cd git-branch
+   16  cd~
+   17  cd ~
+   18  cd git_intro
+   19  git branch
+   20  git fetch --all
+   21  git branch
+   22  git checkout master
+   23  git branch
+   24  git brnach newbranch
+   25  git --help
+   26  cd/git.intro
+   27  git status
+   28  git branch
+   29  git log
+   30  ls
+   31  git comit -m "t"
+   32  git log
+   33  ls
+   34  cd
+   35  pwd
+   36  git clone https://github.com/BegunOk/HW12.git
+   37  git clone github.com/BegunOk/HW12.git
+   38  git clone https://github.com/BegunOk/HW12.git
+   39  cd hw12
+   40  git status
+   41  git checkout -b "feature"
+   42  touch "readme.md"
+   43  git status
+   44  git add "readme.md"
+   45  git status
+   46  git commit -m "add readme.md"
+   47  git log
+   48  git ls -l
+   49  ls-l
+   50  explorer.exe .
+   51  git status
+   52  git add .gitignore
+   53  git commit -m "update .gitignore"
+   54  git log
+   55  git push -u origin feature
+   56  [200~$
+   57  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   58  pwd
+   59  git clone git@github.com:BegunOk/HW12.git
+   60  git status
+   61  git branch
+   62  git push
+   63  git push --set-upstream origin feature
+   64  git push --set-upstream origin feature
+   65  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   66  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   67  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   68  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   69  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   70  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   71  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   72  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   73  cd /opt
+   74  cd /tmp
+   75  vi file.txt
+   76  chmod g+wx file.txt
+   77  chmod o-rwx file.txt
+   78  ls -l file.txt
+   79  -rw-rwx--- 1 user group size date file.txt
+   80  vi myfirstbashscript.sh
+   81  chmod +x myfirstbashscript.sh
+   82  cat myfirstbashscript.sh >> /tmp/file.txt
+   83  history >> /tmp/file.txt
+   84  export_file /tmp/file.txt
+   85  pwd
+   86  pwd
+   87  ls
+   88  pwd
+   89  export_file /tmp/file.txt
+   90  scp /tmp/file.txt
+   91  export_file/tmp/file.txt
+   92  export_file /tmp/file.txt
+   93  scp /tmp/file.txt
+   94  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   95  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   96  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   97  mkdir git_intro
+   98  cd git_intro
+   99  git init
+  100  git add Magnus
+  101  git add Magnus.png
+  102  git commit -m "Added photo"
+  103  git branch -M main
+  104  git remote add origin git@github.com:BegunOk/git_intro.git
+  105  git push -u origin main
+  106  git push -u origin main
+  107  mkdir git-branch
+  108  cd git-branch
+  109  git init
+  110  git checkout -b gitignore
+  111  git add .gitignore
+  112  git add .gitignore
+  113  git add .gitignore
+  114  git add .gitignore
+  115  git add 
+  116  git add gitignore
+  117  git add .gitignore
+  118  git add .gitignore.txt
+  119  git add .gitignore.txt
+  120  git commit -m "Добавлен файл .gitignore"
+  121  git remote add origin https://github.com/BegunOk/git-branch.git
+  122  git push -u origin gitignore
+  123  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  124  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  125  git clone https://github.com/BegunOk/HW_12
+  126  cd HW_12
+  127  git checkout -b feature
+  128  echo "# README file" > README.md
+  129  echo "*.log" >> .gitignore
+  130  git add README.md .gitignore
+  131  git commit -m "Add README and update .gitignore"
+  132  git push origin feature
+  133  git commit --amend -m "Add README and update .gitignore ammend"
+  134  git checkout main
+  135  git merge feature
+  136  git push origin main
+  137  history > history.txt
